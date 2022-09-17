@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rizky</h1>
-<h3 align="center">This repository serves as a report for the course of Web Programming 2 at</h3>
-<h3 align="center">Universitas Bina Sarana Informatika</h3>
+<h1 align="center">Hi 👋, I'm Rizky Bagas Saputra</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=urbfbaby&label=Profile%20views&color=0e75b6&style=flat" alt="urbfbaby" /> </p>
 
