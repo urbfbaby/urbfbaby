@@ -3,13 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=urbfbaby&label=Profile%20views&color=0e75b6&style=flat" alt="urbfbaby" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=urbfbaby" alt="urbfbaby" /></a> </p>
 
 - 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [yaelahriz.my.id](yaelahriz.my.id)
-
-- 💬 Ask me about **react**
 
 - 📫 How to reach me **hi@xsrizzky.my.id**
 
