@@ -1,4 +1,4 @@
-[![@rizkybagas's Holopin board](https://holopin.io/api/user/board?user=rizkybagas)](https://holopin.io/@rizkybagas)
+[![@rizkybagas's Holopin board](https://holopin.me/rizkybagas)](https://holopin.io/@rizkybagas)
 <h1 align="center">Hi 👋, I'm Rizky Bagas Saputra</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=urbfbaby&label=Profile%20views&color=0e75b6&style=flat" alt="urbfbaby" /> </p>
