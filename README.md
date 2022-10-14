@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **hi@xsrizzky.my.id**
 
-- 📄 Know about my experiences [yaelahriz.my.id](yaelahriz.my.id)
+- 📄 Know about my experiences [yaelahriz.my.id](https://yaelahriz.my.id)
 
 
 <h3 align="left">Connect with me:</h3>
